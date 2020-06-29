@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "76psWGTGVTNtXD3Ln/ebuQ6sGYIttRER0qRUC4xE2cG0yQ8Bl1iJgCOnobTx/VVaAkJ78E6WHcdThqZ49BVx+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emmanuel.nursimloo\\source\\repos\\ACQBank\\ACQBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emmanuel.nursimloo\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\emmanuel.nursimloo\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.7.0\\microsoft.identitymodel.jsonwebtokens.6.7.0.nupkg.sha512",
+    "C:\\Users\\emmanuel.nursimloo\\.nuget\\packages\\microsoft.identitymodel.logging\\6.7.0\\microsoft.identitymodel.logging.6.7.0.nupkg.sha512",
+    "C:\\Users\\emmanuel.nursimloo\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.7.0\\microsoft.identitymodel.tokens.6.7.0.nupkg.sha512",
+    "C:\\Users\\emmanuel.nursimloo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
+    "C:\\Users\\emmanuel.nursimloo\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
+    "C:\\Users\\emmanuel.nursimloo\\.nuget\\packages\\prometheus-net\\3.6.0\\prometheus-net.3.6.0.nupkg.sha512",
+    "C:\\Users\\emmanuel.nursimloo\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.7.0\\system.identitymodel.tokens.jwt.6.7.0.nupkg.sha512",
+    "C:\\Users\\emmanuel.nursimloo\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\emmanuel.nursimloo\\.nuget\\packages\\system.runtime.extensions\\4.3.1\\system.runtime.extensions.4.3.1.nupkg.sha512",
+    "C:\\Users\\emmanuel.nursimloo\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
